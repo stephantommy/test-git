@@ -1,2 +1,2 @@
-# test-git
-test-git
+# Belajar Git
+Nyoba - nyoba git ...
